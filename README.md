@@ -3,4 +3,4 @@
 
 
 **bold**
-**italic**
+*italic*
