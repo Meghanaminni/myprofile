@@ -1,2 +1,6 @@
 # myprofile
 ## hello!
+
+
+**bold**
+**italic**
